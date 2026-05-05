@@ -1,0 +1,4 @@
+build/*
+!build/powder.exe
+subprojects/*
+!subprojects/*.wrap
